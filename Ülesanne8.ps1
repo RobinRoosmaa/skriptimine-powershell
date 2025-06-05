@@ -1,6 +1,6 @@
 ﻿#Skript folderite interaktiivseks varundamiseks.
 #Autor: Robin Roosmaa
-#Viimati muudetud 04/06/2025
+#Viimati muudetud 05/06/2025
 
 #Skripti kasutamiseks on vajalik 7zip aplikatsioon, mille default asukoht on siin seadistatud. Vajadusel muuta enda seadistusele vastavaks.
 $7zipPath = "C:\Program Files\7-Zip\7z.exe"
